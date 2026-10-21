@@ -1,0 +1,6 @@
+hbsir==0.6.6
+pandas==3.0.6
+numpy==2.4.6
+pyarrow==25.0.1
+pdfplumber==0.11.10
+matplotlib==3.11.2
